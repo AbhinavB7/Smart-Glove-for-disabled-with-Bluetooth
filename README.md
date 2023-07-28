@@ -11,22 +11,22 @@ The Mobile was designed on MIT App Inventor, which is a web-based integrated dev
 
 ![image](https://github.com/AbhinavB7/Smart-Glove-for-disabled-with-Bluetooth/assets/87815926/15582d11-93d1-418e-baf4-00c618e4c852)
 
-Final Year Engineering Project by - 
-  Abhinav Bhamidipati 
-  Sakshi Bhongade 
-  Hardeep Brahmbhatt  
-  Jaydeep Shinde
+Final Year Engineering Project by - <br/>
+  Abhinav Bhamidipati <br/>
+  Sakshi Bhongade <br/>
+  Hardeep Brahmbhatt  <br/>
+  Jaydeep Shinde<br/>
+**
+PAPER PUBLICATIONS<br/>**
 
-PAPER PUBLICATIONS
+Published Paper 1 - Research Paper<br/>
+Journal: International Journal of Scientific Research and Engineering Development (IJSRED)<br/>
+Paper Title: Bluetooth Smart Glove for Disabled<br/>
+Published In: Volume 5 - Issue 5, September - October 2022<br/>
+Published Paper URL: http://www.ijsred.com/volume5/issue5/IJSRED-V5I5P89.pdf<br/>
 
-Published Paper 1 - Research Paper
-Journal: International Journal of Scientific Research and Engineering Development (IJSRED)
-Paper Title: Bluetooth Smart Glove for Disabled
-Published In: Volume 5 - Issue 5, September - October 2022
-Published Paper URL: http://www.ijsred.com/volume5/issue5/IJSRED-V5I5P89.pdf
-
-Published Paper 2 
-Journal: International Journal of Novel Research and Development (IJNRD)
-Paper Title: Bluetooth Smart Glove for Disabled
-Published In: Volume 8 - Issue 4, April - 2023
-Published Paper URL: https://www.ijnrd.org/viewpaperforall?paper=IJNRD2304432
+Published Paper 2 <br/>
+Journal: International Journal of Novel Research and Development (IJNRD)<br/>
+Paper Title: Bluetooth Smart Glove for Disabled<br/>
+Published In: Volume 8 - Issue 4, April - 2023<br/>
+Published Paper URL: https://www.ijnrd.org/viewpaperforall?paper=IJNRD2304432<br/>
